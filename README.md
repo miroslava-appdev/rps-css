@@ -1,4 +1,4 @@
-# RPS CSS
+≠# RPS CSS
 
 This project is for you to type along with the Introduction to CSS video. There are no automated tests, so `rails grade` won't do anything.
 
